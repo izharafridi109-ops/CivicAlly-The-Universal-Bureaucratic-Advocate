@@ -1,0 +1,8 @@
+{
+  "name": "CivicAlly",
+  "description": "A multimodal AI bureaucratic advocate helping citizens navigate government services and claim unclaimed assets via voice and document analysis.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
